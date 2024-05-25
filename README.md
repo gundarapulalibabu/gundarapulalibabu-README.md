@@ -7,7 +7,7 @@
 
 ## How to Reach Me
 - 📧 Feel free to reach out to me via email:(mailto: mscds.lalichowdarygundarapu@gmail.com)
-- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/gundarapu-lali-babu-%F0%9F%8E%93-6546b8236/)
+- 💬 Connect with me on [LinkedIn] (https://www.linkedin.com/in/gundarapu-lali-babu-%F0%9F%8E%93-6546b8236/)
 
 ## Projects
 - 📂 You can check out some of my work and projects on my GitHub profile.
